@@ -1,7 +1,7 @@
 # DevRev-InterIIT-TechMeet-12.0-Team99
 
 ## Problem Statement
-As part of the challenge, we developed a chatbot that conducts in-depth passage retrieval from a given text database, providing the most pertinent passages in response to user queries. Additionally, the chatbot highlights the relevant information within the paragraph, employing language models such as BERT and clustering algorithms. Moreover, our versatile model is adaptable to fine-tuning for specific themes, enabling it to effectively answer questions tailored to different subjects.
+As part of the challenge, we developed and tested a pipeline to enable LLMs to perform API calls. An LLM is provided a _toolbox_ of APIs and through prompt engineering and finetuning, it is able to make API calls whenever necessary. This method is also robust to new APIs. 
 
 ## Team
  - [Ishaan Kulkarni](https://github.com/IshaanKulkarni)
